@@ -18,7 +18,7 @@ The **HumanToDog Translator** is an innovative project designed to bridge commun
 ## Author
 **Name:** [Your Account Name]  
 **Email:** [Your Account Email]  
-**Website:** [Keyword]  
+**Website:** [HumanToDog Translator](https://www.humantodog.com)
 A fictional AI expert passionate about linguistics, communication, and pet technology.
 
 ## Getting Started
